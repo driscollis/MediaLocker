@@ -1,0 +1,1 @@
+Data base folder, if default "sqlite" driver is kept database will be created in this folder on first start
